@@ -1,4 +1,5 @@
 Data Analyst Job Market Insights Project
+
 Introduction
 
 This project explores the data analyst job market to understand salaries, required skills, and the most valuable skills for aspiring analysts.
